@@ -8,3 +8,6 @@ CapUpper = (10^9)/(2*pi*UpperCutOff*R)
 CapLower = (10^9)/(2*pi*LowerCutOff*R)
 %Resonant Frequency
 ResFreq = sqrt(UpperCutOff*LowerCutOff)
+
+FUpper = 1/(2*pi*5*10^-9*R)
+FLower = 1/(2*pi*220*10^-9*R)
